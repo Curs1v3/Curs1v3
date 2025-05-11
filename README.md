@@ -1,5 +1,5 @@
 
-  ![Image](https://github.com/user-attachments/assets/4c122df1-247a-44e0-9a0f-dd1484cfd7e4)
+  ![Image](https://github.com/user-attachments/assets/af7af647-6143-4979-bcea-9632cac15feb)
 
 
-  none will be get along with it. 
+    𝐜𝐨𝐮𝐥𝐝 𝐰𝐞 𝐛𝐞 𝐠𝐞𝐭𝐭𝐢𝐧𝐠 𝐛𝐞𝐭𝐭𝐞𝐫 𝐥𝐢𝐟𝐞..?
