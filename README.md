@@ -7,7 +7,7 @@
 
 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31t7ieagjsy5oahw4up3srtz5pw4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31x3ovyawj7aewamccpcnwnthsiy&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=db2727&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
 
 <div align="center">
  ᴄʀᴇᴅs ᴛᴏ ᴛʜᴇ ʙᴀɴɴᴇʀ @R___5140 ◇┆
