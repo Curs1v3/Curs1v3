@@ -8,7 +8,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sans+serif&pause=1000&color=7F0000&width=435&lines=Seen+this+ang3l%3F+That's+my+ang3l+luv." alt="Typing SVG" /></a>
 
 
-![Badge](https://img.shields.io/badge/10-%E2%99%A1%E2%95%8CLv?style=plastic&label=%E2%99%A1%E2%95%8CLv&labelColor=9A0705&color=C7C7C7&cacheSeconds=10)
+![Static Badge](https://img.shields.io/badge/15-Lv?style=plastic&label=%E2%99%A1-Lv&labelColor=BD0F0F&color=E4E4E4)
 
 ![Image](https://github.com/Curs1v3/Curs1v3/blob/a9d21f2a250b642cf53174e6dd4ac68e7b91ff69/407fdc69-a7ff-4ea9-b62d-bd730cd0b4d1.jpeg)
 
