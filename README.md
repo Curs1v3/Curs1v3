@@ -7,8 +7,6 @@
 
   ![Static Badge](https://img.shields.io/badge/15-Lv?style=plastic&label=%E2%99%A1-Lv&labelColor=BD0F0F&color=E4E4E4)
 
-![Image](https://github.com/Curs1v3/Curs1v3/blob/a9d21f2a250b642cf53174e6dd4ac68e7b91ff69/407fdc69-a7ff-4ea9-b62d-bd730cd0b4d1.jpeg)
-
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31x3ovyawj7aewamccpcnwnthsiy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=6e1616&bar_color_cover=false">
