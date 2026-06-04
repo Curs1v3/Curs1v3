@@ -1,14 +1,11 @@
-<div align="center">
-╭╴╴╴╴╴╴╴╴➵♥︎╴╴╴╴╴╴╴╴╮
-
-
-![Image](https://github.com/Curs1v3/Curs1v3/blob/b35cd9f2d9e494fb7983d70e50f055b3f07ffc50/Tak%20berjudul94_20260512020319.png)
+![Image](https://github.com/Curs1v3/Curs1v3/blob/bb3cbce75bac0b887850f7ad620a976307e93f59/Tak%20berjudul109_20260604215520.png)
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sans+serif&pause=1000&color=7F0000&width=435&lines=Seen+this+ang3l%3F+That's+my+ang3l+luv." alt="Typing SVG" /></a>
 
+<div align=center>
 
-![Static Badge](https://img.shields.io/badge/15-Lv?style=plastic&label=%E2%99%A1-Lv&labelColor=BD0F0F&color=E4E4E4)
+  ![Static Badge](https://img.shields.io/badge/15-Lv?style=plastic&label=%E2%99%A1-Lv&labelColor=BD0F0F&color=E4E4E4)
 
 ![Image](https://github.com/Curs1v3/Curs1v3/blob/a9d21f2a250b642cf53174e6dd4ac68e7b91ff69/407fdc69-a7ff-4ea9-b62d-bd730cd0b4d1.jpeg)
 
