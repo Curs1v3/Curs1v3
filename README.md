@@ -12,3 +12,5 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31x3ovyawj7aewamccpcnwnthsiy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=6e1616&bar_color_cover=false">
   </a>
 </p>
+
+<p align="center"> <img src="https://64.media.tumblr.com/d7bb0285782aa685a734c7238604ef25/342eba682fb9fb8e-6a/s100x200/f3e17c3792776d68af4b1e5edd6aa37fec6e7d03.gifv" width="96" alt="Stamp 1" /> <img 
